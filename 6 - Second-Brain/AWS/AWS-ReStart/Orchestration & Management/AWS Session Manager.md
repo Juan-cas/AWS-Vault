@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Orchestration & Management Index]]
+[[4 - Indexes/AWS 1/AWS Orchestration & Management Index]]
 
 # AWS Session Manager
 

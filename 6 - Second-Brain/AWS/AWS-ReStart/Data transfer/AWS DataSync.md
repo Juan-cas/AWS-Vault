@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[Data Transfer Index]]
+[[4 - Indexes/AWS 1/Data Transfer Index]]
 # AWS DataSync
 
 Works for centralizing the migration of data, it is used especially for migrating data from snowcone to AWS, incremental information copies.

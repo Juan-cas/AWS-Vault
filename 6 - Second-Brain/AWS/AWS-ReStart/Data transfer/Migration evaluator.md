@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[Data Transfer Index]]
+[[4 - Indexes/AWS 1/Data Transfer Index]]
 # Migration evaluator
 
 Migration Evaluator provides the insights you need to build a data-driven business case for migration to AWS, helping define next steps in your migration journey.

@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Monitoring & Compliance Index]]
+[[4 - Indexes/AWS 1/AWS Monitoring & Compliance Index]]
 # AWS X-Ray
 
 Is a service that collects data about requests that your application serves, and provides tools that you can use to view, filter, and gain insights into that data to identify issues and opportunities for optimization.

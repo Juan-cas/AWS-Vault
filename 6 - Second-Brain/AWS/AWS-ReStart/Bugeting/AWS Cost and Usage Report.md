@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Budgeting Index]]
+[[4 - Indexes/AWS 1/AWS Budgeting Index]]
 
 # AWS Cost and Usage Report
 

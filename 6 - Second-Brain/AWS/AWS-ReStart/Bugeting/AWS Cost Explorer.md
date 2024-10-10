@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Budgeting Index]]
+[[4 - Indexes/AWS 1/AWS Budgeting Index]]
 # AWS Cost Explorer
 
 Is a tool that enables you to view and analyze your costs and usage. You can explore your usage and costs using the main graph, the cost explorer cost and usage reports, or the Cost Explorer RI reports.

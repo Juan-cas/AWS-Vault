@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Storage Index]]
+[[4 - Indexes/AWS 1/AWS Storage Index]]
 # Amazon FSx  (File Server Service)
 
 Is a fully managed file Server Service that is integrated with the rest of AWS, thus you don't need to manage the hardware or the software to provide file server services to your users. 

@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Monitoring & Compliance Index]]
+[[4 - Indexes/AWS 1/AWS Monitoring & Compliance Index]]
 # Amazon CloudTrail
 
 is an AWS service that helps you enable operational and risk auditing, governance, and compliance of your AWS account.

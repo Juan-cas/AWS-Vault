@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Coding Index]]
+[[4 - Indexes/AWS 1/AWS Coding Index]]
 # Amazon CodeStar
 
 Is a service based on the cloud, that creates, administers and works with development projects in AWS, you can develop, compile and implement applications quickly in AWS.

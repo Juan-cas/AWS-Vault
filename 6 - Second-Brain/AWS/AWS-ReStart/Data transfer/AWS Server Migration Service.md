@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[Data Transfer Index]]
+[[4 - Indexes/AWS 1/Data Transfer Index]]
 # AWS Server Migration Service
 
 Automates the migration of on-premises VMware vSphere or Microsoft Hyper-V/SCVMM virtual machines to the AWS cloud.

@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Computing Index|AWS Computing Index]]
+[[4 - Indexes/AWS 1/AWS Computing Index|AWS Computing Index]]
 # Amazon Managed Blockhain (Descentralized crypto)
 
 

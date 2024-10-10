@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Data-bases Index]]
+[[4 - Indexes/AWS 1/AWS Data-bases Index]]
 
 # AWS DynamoDB
 

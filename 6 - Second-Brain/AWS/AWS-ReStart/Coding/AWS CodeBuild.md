@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Coding Index]]
+[[4 - Indexes/AWS 1/AWS Coding Index]]
 # AWS CodeBuild
 
 Is a fully managed build service in the cloud, codebuild compiles your source code, runs unit tests, and produces artifacts that are ready to deploy.

@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Computing Index]]
+[[4 - Indexes/AWS 1/AWS Computing Index]]
 # {{Title}}
 
 

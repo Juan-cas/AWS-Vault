@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Data-bases Index]]
+[[4 - Indexes/AWS 1/AWS Data-bases Index]]
 # Amazon RedShift
 
 Redshift is a fully managed Data Warehouse that is able to handle petabytes of data in the cloud.

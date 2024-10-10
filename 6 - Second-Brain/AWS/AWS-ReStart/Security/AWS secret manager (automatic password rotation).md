@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Security Index]]
+[[4 - Indexes/AWS 1/AWS Security Index]]
 
 # AWS secret manager
 

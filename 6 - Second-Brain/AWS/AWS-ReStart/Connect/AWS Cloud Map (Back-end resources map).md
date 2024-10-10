@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Connections Index]]
+[[4 - Indexes/AWS 1/AWS Connections Index]]
 
 # AWS Cloud Map (Back-end resources map)
 

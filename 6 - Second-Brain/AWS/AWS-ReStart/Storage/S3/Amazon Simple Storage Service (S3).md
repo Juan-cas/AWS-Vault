@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Storage Index]]
+[[4 - Indexes/AWS 1/AWS Storage Index]]
 # Amazon Simple Storage Service (S3)
 
 Is an object storage service that offers industry-leading scalability, data availability, security, and performance.

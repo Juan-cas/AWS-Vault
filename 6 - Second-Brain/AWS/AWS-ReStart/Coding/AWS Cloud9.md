@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Coding Index]]
+[[4 - Indexes/AWS 1/AWS Coding Index]]
 # AWS Cloud9
 
 Is an integrated development environment. 

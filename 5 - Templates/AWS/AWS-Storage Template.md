@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[AWS Storage Index]]
+[[4 - Indexes/AWS 1/AWS Storage Index]]
 
 # {{Title}}
 
