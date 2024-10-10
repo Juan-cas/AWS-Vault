@@ -1,0 +1,19 @@
+2024-10-06 17:42
+
+Status:
+
+Tags:
+[[AWS Monitoring & Compliance Index]]
+# Amazon CloudWatch
+
+
+Monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time, you can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications.
+
+The CloudWatch home page automatically displays metrics about every AWS service you use, you can additionally create custom dashboards to display metrics about your custom applications, and display custom collections of metrics that you choose.
+
+You can also create alarms that watch metrics and send notifications or automatically make changes to the resources you are monitoring when a threshold is breached. For example, you can monitor the CPU usage and disk reads and writes of your Amazon EC2 instances and then use that data to determine whether you should launch additional instances to handle increased load, you can also use this data to stop under-used instances to save money.
+
+With CloudWatch, you gain system-wide visibility into resource utilization, application performance, and operational health.
+
+References 
+[What is AWS Cloudwatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
