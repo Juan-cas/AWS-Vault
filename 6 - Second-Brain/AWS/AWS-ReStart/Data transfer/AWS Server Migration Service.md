@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[Data Transfer Index]]
+#transfer
 # AWS Server Migration Service
 
 Automates the migration of on-premises VMware vSphere or Microsoft Hyper-V/SCVMM virtual machines to the AWS cloud.
@@ -15,4 +16,4 @@ Servers running on-premises and being migrated to the cloud with (AWS SMS) can c
 Refer to the guidance for EC2 and setting up encrypted storage volumes when migrating a server VM containing PHI with AWS SMS. AWS SMS uses CloudTrail to log all API calls.
 
 References 
-[ASMS](https://docs.aws.amazon.com/es_es/whitepapers/latest/architecting-hipaa-security-and-compliance-on-aws/aws-server-migration-service.html)
+[What is AWS Server Migration Service](https://docs.aws.amazon.com/es_es/whitepapers/latest/architecting-hipaa-security-and-compliance-on-aws/aws-server-migration-service.html)

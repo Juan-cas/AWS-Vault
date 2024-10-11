@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS VPC peering
 
@@ -18,4 +19,4 @@ related image:
 ![[VPC peering.png]]
 
 References 
-[VPC_Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
+[What is AWS VPC_Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)

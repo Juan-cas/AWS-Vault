@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS Direct Connect
 
@@ -18,4 +19,4 @@ example image:
 ![[AWS_direct_connect.png]]
 
 References 
-[Direct_Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
+[What is AWS Direct_Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)

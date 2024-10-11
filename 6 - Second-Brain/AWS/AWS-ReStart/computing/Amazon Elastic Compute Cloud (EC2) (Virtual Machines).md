@@ -4,7 +4,7 @@ Status:
 
 Tags:
 [[AWS Computing Index]]
-
+#computing 
 # Amazon Elastic Compute Cloud (EC2) (Virtual Machines)
 
 Provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster.

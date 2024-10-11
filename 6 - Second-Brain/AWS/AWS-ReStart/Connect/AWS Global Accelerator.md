@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS Global Accelerator
 
@@ -16,4 +17,4 @@ The service supports endpoints in multiple AWS regions, to determine if global a
 
 
 References 
-[Global_Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
+[What is AWS Global_Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)

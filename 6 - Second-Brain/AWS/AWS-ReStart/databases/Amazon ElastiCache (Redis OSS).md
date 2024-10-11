@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # Amazon ElastiCache (database chache storage)
 
@@ -13,4 +14,4 @@ Is a web service that makes it easy to set up, manage and scale a distributed in
 
 
 References 
-[ElastiCache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)
+[What is AWS ElastiCache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatIs.html)

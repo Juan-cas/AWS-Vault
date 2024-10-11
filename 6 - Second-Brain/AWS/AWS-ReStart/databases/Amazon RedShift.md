@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 # Amazon RedShift
 
 Redshift is a fully managed Data Warehouse that is able to handle petabytes of data in the cloud.
@@ -13,4 +14,4 @@ Amazon Redshift Server-less lets you access and analyze all of your data without
 Regardless of the size of the dataset Redshift offers a fast query performance using the same SQL-based tools and business intelligence applications that you use today.
 
 References 
-[Amazon Redshift]()
+[What is AWS Amazon Redshift]()

@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # AWS Database Migration Service (DMS)
 
@@ -11,4 +12,4 @@ Is a cloud service that makes it possible to migrate relational databases, data 
 
 
 References 
-[DMS](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
+[What is Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)

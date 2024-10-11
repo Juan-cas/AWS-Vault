@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # Amazon Dynamo-db Accelerator (DAX)
 
@@ -12,4 +13,4 @@ is a fully managed, highly available caching service built for [AWS DynamoDB](ob
 
 
 References 
-[DAX](https://aws.amazon.com/dynamodbaccelerator/)
+[What is Dynamodb Accelerator](https://aws.amazon.com/dynamodbaccelerator/)

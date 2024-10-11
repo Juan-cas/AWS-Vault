@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Monitoring & Compliance Index]]
+#monitoring
 # Amazon CloudWatch
 
 

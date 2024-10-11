@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Security Index]]
+#security
 
 # aws artifcat (security and conformity information)
 

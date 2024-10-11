@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS endpoint
 
@@ -15,4 +16,4 @@ If a service supports Regions, the resources in each Region are independent of s
 For example, you can create an Amazon EC2 instance or an Amazon SQS queue in one Region, When you do, the instance or queue is independent of instances or queue in all other regions.
 
 References 
-[AWS_End_Point](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+[What is AWS End_Point](https://docs.aws.amazon.com/general/latest/gr/rande.html)

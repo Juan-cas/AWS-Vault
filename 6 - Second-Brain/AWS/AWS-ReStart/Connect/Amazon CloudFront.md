@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # Amazon Cloud-front
 
@@ -15,4 +16,4 @@ When a user requests content that you're serving with Cloud-front, the request i
 
 
 References 
-[Cloud-Front](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+[What is AWS Cloud-Front](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)

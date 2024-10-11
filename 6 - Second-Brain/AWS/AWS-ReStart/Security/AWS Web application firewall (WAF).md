@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Security Index]]
+#security
 
 # AWS Web application firewall (WAF)
 

@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Orchestration & Management Index]]
+#management
 
 # AWS Control Tower
 

@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # Amazon API gateway
 
@@ -14,4 +15,4 @@ API developers can create APIs that access AWS or other web services, as well as
 As an API Gateway API developer, you can create APIs for use in your own client applications. Or you can make your APIs available to third-party app developers.
 
 References 
-[API_Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+[What is AWS API_Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)

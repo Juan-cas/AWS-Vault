@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Monitoring & Compliance Index]]
+#monitoring
 # AWS Compliance Program
 
 AWS continually maintains a high bar for security and compliance across all of our global operations, Security is our top priority. AWS regularly undergoes independent third-party attestation audits to provide assurance that control activities are operating as intended.

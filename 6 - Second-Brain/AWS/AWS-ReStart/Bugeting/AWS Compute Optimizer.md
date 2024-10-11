@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Budgeting Index]]
+#budgeting 
 
 # AWS Compute Optimizer
 

@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Monitoring & Compliance Index]]
+#monitoring
 # AWS Config
 
 Provides a detailed view of the configuration of AWS resources in your AWS account, This includes how the resources are related to one another and how they were configured in the past so that you can see how the configurations and relationships change overtime.

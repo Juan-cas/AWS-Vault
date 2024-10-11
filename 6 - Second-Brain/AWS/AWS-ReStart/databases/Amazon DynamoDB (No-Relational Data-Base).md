@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # Amazon DynamoDB (No-Relational Data-Base)
 
@@ -17,4 +18,4 @@ It allows VPC end-points & documents.
 
 
 References 
-[AWS DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+[What is AWS DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)

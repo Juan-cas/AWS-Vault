@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # Amazon Relational Data Service
 Amazon RDS is a web service that makes it easier to set up, operate, and scale a relational database in the AWS cloud.

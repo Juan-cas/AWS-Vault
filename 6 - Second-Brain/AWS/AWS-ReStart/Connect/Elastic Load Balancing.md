@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # Elastic Load Balancing
 
@@ -12,4 +13,4 @@ Elastic Load Balancing automatically distributes your incoming traffic across mu
 You can select the type of load balancer that best suits your needs.
 
 References 
-[Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/)
+[What is AWS Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/)

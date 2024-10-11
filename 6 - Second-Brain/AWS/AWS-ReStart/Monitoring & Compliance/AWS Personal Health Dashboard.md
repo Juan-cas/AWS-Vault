@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Monitoring & Compliance Index]]
+#monitoring
 # AWS Personal Health Dashboard
 
 Provides ongoing visibility into your resource performance and the availability of your AWS services and timely information to help you manage events in progress. AWS Health also helps you be aware of and to prepare for planned activities.

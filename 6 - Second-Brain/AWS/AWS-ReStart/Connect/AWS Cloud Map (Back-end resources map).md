@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS Cloud Map (Back-end resources map)
 
@@ -18,4 +19,4 @@ it also helps your applications discover resources using one of the AWS SDKs, RE
 - Service instance
 
 References 
-[Cloud_Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
+[What is AWS Cloud_Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)

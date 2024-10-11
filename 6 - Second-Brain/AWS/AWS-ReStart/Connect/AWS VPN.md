@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # AWS VPN
 
@@ -30,4 +31,4 @@ You can create a VPN connection to your remote network by using an Amazon EC2 in
 However, you can choose from a range of products provided by partners and open source communities. you can also find third party software VPN appliances on the [AWS Marketplace](https://aws.amazon.com/marketplace/search/results/ref=brs_navgno_search_box?searchTerms=vpn)
 
 References 
-[AWS_VPN](https://docs.aws.amazon.com/vpc/latest/userguide/vpn-connections.html)
+[What is AWS_VPN](https://docs.aws.amazon.com/vpc/latest/userguide/vpn-connections.html)

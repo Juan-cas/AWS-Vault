@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Second-Brain",
+  "attachmentFolderPath": "2 - Source Material"
 }

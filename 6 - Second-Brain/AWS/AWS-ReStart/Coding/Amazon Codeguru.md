@@ -4,10 +4,11 @@ Status:
 
 Tags:
 [[AWS Coding Index]]
+#coding
 # Amazon Codeguru
 
 Provides intelligent recommendations for improving application performance, efficiency, security, and code quality.
 
 
 References 
-[Codeguru](https://docs.aws.amazon.com/codeguru/)
+[What is AWS Codeguru](https://docs.aws.amazon.com/codeguru/)

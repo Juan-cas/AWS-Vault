@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon guard-duty (Smart Threat detection).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,42 +81,14 @@
         "dimension": 43.260473588342435,
         "children": [
           {
-            "id": "380922d92e040df8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d13551241e591a3c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon guard-duty (Smart Threat detection).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5e71b338c04aafd8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -126,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md"
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon guard-duty (Smart Threat detection).md"
               }
             }
           },
@@ -147,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "f0a45c7e79133818",
@@ -160,6 +132,34 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "380922d92e040df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon guard-duty (Smart Threat detection).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e71b338c04aafd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
@@ -183,39 +183,41 @@
   },
   "active": "57cb8959e5690dde",
   "lastOpenFiles": [
-    "2 - Source Material/images/AWS/Elastic Beanstalk example.png",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS batch (Computing service for lots processing).md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Managed Blockhain (Descentralized crypto).md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Transcoder (audio-video converter).md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Kubernetes Service (EKS) (Kubernetes containers).md",
-    "2 - Source Material/images/AWS/AWS EKS.png",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Container Service (ECS Docker & Containers).md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md",
-    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Fargate (Serverless container computing).md",
     "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon cognito.md",
-    "AWS Shared Responsibility Model.md",
-    "4 - Indexes/AWS/AWS Intelligent P&V index.md",
-    "2 - Source Material/images/AWS/AWS-Shared-Responsibility-Chart.png",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS Web application firewall (WAF).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS Shield (DDoS protection).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS Security hub (Security checks).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS secret manager (automatic password rotation).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS key management system.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS IAM Access analizer.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS IAM.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/aws Detective (Exaustive security check).md",
     "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS certificate manager (ACM).md",
-    "SSL, TLS.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/aws artifcat (security and conformity information).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon Macie (Discover and Protect confidential data).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon Inspector (Evaluation of security in apps and vulnerability management).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon guard-duty (Smart Threat detection).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/AWS Step Functions.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/AWS Systems Manager.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/AWS Session Manager.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/AWS Service Catalog.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/AWS Control Tower.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/Amazon Simple Queue Service (SQS).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Orchestration & Management/Amazon simple notification Service.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Monitoring & Compliance/AWS Config.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Monitoring & Compliance/AWS Compliance Program.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Monitoring & Compliance/Amazon CloudTrail.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Monitoring & Compliance/VPC Flow Logs.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Monitoring & Compliance/AWS X-Ray.md",
+    "2 - Source Material/images/AWS/EC2 AutoScaling example.png",
+    "2 - Source Material/images/AWS/Elastic Beanstalk example.png",
+    "2 - Source Material/images/AWS/AWS EKS.png",
+    "2 - Source Material/images/AWS/AWS-Shared-Responsibility-Chart.png",
     "2 - Source Material/images/AWS/AWS ECS LifeCycle.png",
-    "SSL/TLS.md",
     "SSL",
     "2 - Source Material/images/AWS/AWS Migrator Evaluator.png",
-    "6 - Second-Brain/AWS/AWS-ReStart/Data transfer/Migration evaluator.md",
-    "6 - Second-Brain/Amazon Athena.md",
-    "6 - Second-Brain/Amazon Comprehend.md",
-    "6 - Second-Brain/Amazon EMR (Elastic MapReduce).md",
     "2 - Source Material/images/AWS/EC2 Instance representation.png",
-    "2024-10-21.md",
     "Untitled.canvas",
-    "2024-10-10.md",
-    "4 - Indexes/AWS/AWS Computing Index.md",
-    "4 - Indexes/AWS/AWS Budgeting Index.md",
-    "5 - Templates/AWS/AWS Analytics template.md",
-    "5 - Templates/AWS/AWS Intelligent Processing & Virtualization template.md",
-    "4 - Indexes/AWS/AWS Monitoring & Compliance Index.md",
     "4 - Indexes/AWS"
   ]
 }

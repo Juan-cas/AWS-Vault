@@ -4,11 +4,11 @@ Status:
 
 Tags:
 [[AWS Security Index]]
+#security
 
 # Amazon guard-duty (Smart Threat detection)
-
-Monitors continually for threats and malicious activity in the network, security groups and account, gives detailed information and recomendations about security.
 
 
 
 References 
+[What is AWS Guard Duty](https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html)

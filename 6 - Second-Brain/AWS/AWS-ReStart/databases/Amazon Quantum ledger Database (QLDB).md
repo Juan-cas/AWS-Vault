@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 
 # Amazon Quantum ledger Database (QLDB)
 
@@ -13,4 +14,4 @@ Is a fully managed ledger database that provides a transparent inmutable and cry
 
 
 References 
-[QLDB](https://aws.amazon.com/qldb/)
+[What is AWS Quantum Ledger Database](https://aws.amazon.com/qldb/)

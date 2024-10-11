@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Security Index]]
+#security
 
 # Amazon Macie (Discover and Protect confidential data)
 

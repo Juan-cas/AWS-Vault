@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Computing Index]]
+#computing 
 
 # AWS Elastic Beanstalk
 

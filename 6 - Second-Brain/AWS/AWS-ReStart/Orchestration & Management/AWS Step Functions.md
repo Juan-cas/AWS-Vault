@@ -4,7 +4,7 @@ Status:
 
 Tags:
 [[AWS Orchestration & Management Index]]
-
+#management
 # AWS Step Functions
 
 You can create workflows, also called [State Machines](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-statemachines.html), to build distributed applications, automate processes, orchestrate micro-services, and create data and machine learning pipelines.

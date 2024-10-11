@@ -3,6 +3,7 @@ Status:
 
 Tags:
 [[AWS Data-bases Index]]
+#databases
 # AWS Aurora
 
  A Relational database compatible with MySQL and PostgreSQL, its 5 times faster than MySQL and 3 times faster than PostgreSQL.
@@ -13,4 +14,4 @@ it creates 6 copies of the database distributed among 3 availability zones to en
 
 
 References 
-[AWS Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
+[What is AWS Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)

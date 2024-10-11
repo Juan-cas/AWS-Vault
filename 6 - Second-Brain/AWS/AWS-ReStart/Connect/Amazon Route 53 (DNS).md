@@ -4,6 +4,7 @@ Status:
 
 Tags:
 [[AWS Connections Index]]
+#connecting
 
 # Amazon Route 53 (DNS)
 
@@ -16,4 +17,4 @@ is a highly available and scalable Domain Name System (DNS) web service. you can
 
 
 References 
-[Route_53](https://docs.aws.amazon.com/es_es/Route53/latest/DeveloperGuide/Welcome.html)
+[What is AWS Route_53](https://docs.aws.amazon.com/es_es/Route53/latest/DeveloperGuide/Welcome.html)
