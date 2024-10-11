@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Data-bases Index]]
+[[AWS Data-bases Index]]
 # Amazon DocumentDB (With mongoDB compatibility)
 
 Is a fast, reliable, and fully managed database service. Amazon documentbd makes it easier to operate, set up and scale mongodb-Compatible databases in the cloud.

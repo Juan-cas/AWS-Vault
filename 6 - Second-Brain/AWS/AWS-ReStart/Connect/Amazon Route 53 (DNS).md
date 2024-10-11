@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Connections Index]]
+[[AWS Connections Index]]
 
 # Amazon Route 53 (DNS)
 

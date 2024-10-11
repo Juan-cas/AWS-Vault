@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Coding Index]]
+[[AWS Coding Index]]
 # AWS CodePipeline
 
 Is a continuous delivery service you can use to model, visualize and automate the steps required to release your software, you can quickly model and configure the different stages of a software release process.

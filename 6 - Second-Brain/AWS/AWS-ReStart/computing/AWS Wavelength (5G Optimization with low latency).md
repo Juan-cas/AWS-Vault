@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Computing Index]]
+[[AWS Computing Index]]
 
 # AWS Wavelength (5G Optimization with low latency)
 

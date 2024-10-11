@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/Data Transfer Index]]
+[[Data Transfer Index]]
 
 # {{Title}}
 

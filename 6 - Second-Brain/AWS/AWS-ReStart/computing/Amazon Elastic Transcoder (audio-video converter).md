@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Computing Index]]
+[[AWS Computing Index]]
 
 # Amazon Elastic Transcoder (audio-video converter)
 
@@ -11,3 +11,4 @@ This is the main service used for converting video / audio files on AWS, it prov
 
 
 References 
+[What is Amazon Elastic Transcoder] (https://docs.aws.amazon.com/elastic-transcoder/)

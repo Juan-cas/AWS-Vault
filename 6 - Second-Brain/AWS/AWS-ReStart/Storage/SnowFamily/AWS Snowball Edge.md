@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Storage Index]]
+[[AWS Storage Index]]
 # AWS Snowball Edge
 
 Is a type of snowball device with on-board storage and compute power for select AWS capabilities, Snowball edge can process data locally, run edge-computing workloads, and transfer data to or from the AWS Cloud.

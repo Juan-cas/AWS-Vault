@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md",
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "da23b1408f753ca7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "632d130617bd2745",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -92,6 +78,7 @@
       {
         "id": "0eeada43d7c8f2c1",
         "type": "tabs",
+        "dimension": 43.260473588342435,
         "children": [
           {
             "id": "380922d92e040df8",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md",
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md",
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md"
+                "file": "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md"
               }
             }
           },
@@ -161,53 +148,74 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "f0a45c7e79133818",
+        "type": "tabs",
+        "dimension": 56.739526411657565,
+        "children": [
+          {
+            "id": "632d130617bd2745",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 693.5
+    "width": 663.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false
     }
   },
-  "active": "7ec033e4a83a71f1",
+  "active": "57cb8959e5690dde",
   "lastOpenFiles": [
+    "2 - Source Material/images/AWS/Elastic Beanstalk example.png",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Elastic Beanstalk.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS batch (Computing service for lots processing).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Managed Blockhain (Descentralized crypto).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Transcoder (audio-video converter).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Kubernetes Service (EKS) (Kubernetes containers).md",
+    "2 - Source Material/images/AWS/AWS EKS.png",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Container Service (ECS Docker & Containers).md",
     "6 - Second-Brain/AWS/AWS-ReStart/computing/Amazon Elastic Compute Cloud (EC2) (Virtual Machines).md",
-    "AWS Intelligent P&V index.md",
-    "4 - Indexes/AWS 1/AWS Budgeting Index.md",
+    "6 - Second-Brain/AWS/AWS-ReStart/computing/AWS Fargate (Serverless container computing).md",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/Amazon cognito.md",
+    "AWS Shared Responsibility Model.md",
+    "4 - Indexes/AWS/AWS Intelligent P&V index.md",
+    "2 - Source Material/images/AWS/AWS-Shared-Responsibility-Chart.png",
+    "6 - Second-Brain/AWS/AWS-ReStart/Security/AWS certificate manager (ACM).md",
+    "SSL, TLS.md",
+    "2 - Source Material/images/AWS/AWS ECS LifeCycle.png",
+    "SSL/TLS.md",
+    "SSL",
+    "2 - Source Material/images/AWS/AWS Migrator Evaluator.png",
+    "6 - Second-Brain/AWS/AWS-ReStart/Data transfer/Migration evaluator.md",
+    "6 - Second-Brain/Amazon Athena.md",
+    "6 - Second-Brain/Amazon Comprehend.md",
+    "6 - Second-Brain/Amazon EMR (Elastic MapReduce).md",
+    "2 - Source Material/images/AWS/EC2 Instance representation.png",
+    "2024-10-21.md",
+    "Untitled.canvas",
+    "2024-10-10.md",
+    "4 - Indexes/AWS/AWS Computing Index.md",
+    "4 - Indexes/AWS/AWS Budgeting Index.md",
     "5 - Templates/AWS/AWS Analytics template.md",
     "5 - Templates/AWS/AWS Intelligent Processing & Virtualization template.md",
-    "4 - Indexes/AWS 1/AWS Monitoring & Compliance Index.md",
     "4 - Indexes/AWS/AWS Monitoring & Compliance Index.md",
-    "4 - Indexes/AWS 1/AWS Data-bases Index.md",
-    "4 - Indexes/AWS 1/AWS Data Analytics index.md",
-    "4 - Indexes/AWS 1/AWS Computing Index.md",
-    "4 - Indexes/AWS/AWS Coding Index.md",
-    "4 - Indexes/AWS/AWS Budgeting Index.md",
-    "4 - Indexes/AWS 1/AWS Coding Index.md",
-    "4 - Indexes/AWS 1/Data Transfer Index.md",
-    "4 - Indexes/AWS 1/AWS Connections Index.md",
-    "4 - Indexes/AWS 1/AWS Orchestration & Management Index.md",
-    "4 - Indexes/AWS 1/AWS Storage Index.md",
-    "4 - Indexes/AWS 1/AWS Security Index.md",
-    "4 - Indexes/AWS 1",
-    "4 - Indexes/AWS/AWS Storage Index.md",
-    "6 - Second-Brain/Amazon Athena.md",
-    "4 - Indexes/AWS/AWS Computing Index.md",
-    "4 - Indexes/AWS/AWS Connections Index.md",
-    "4 - Indexes/AWS/AWS Data Analytics index.md",
-    "4 - Indexes/AWS/AWS Data-bases Index.md",
-    "4 - Indexes/AWS/AWS Orchestration & Management Index.md",
-    "4 - Indexes/Google CiberSecurity/Cyber security.md"
+    "4 - Indexes/AWS"
   ]
 }

@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Monitoring & Compliance Index]]
+[[AWS Monitoring & Compliance Index]]
 # VPC Flow Logs
 
 Is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC, Flow long data can be published to the following locations: Amazon Cloudwatch logs, Amazon S3, or Amazon Data Firehose.

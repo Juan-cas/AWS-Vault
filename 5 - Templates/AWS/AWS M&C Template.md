@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Monitoring & Compliance Index]]
+[[AWS Monitoring & Compliance Index]]
 # {{Title}}
 
 

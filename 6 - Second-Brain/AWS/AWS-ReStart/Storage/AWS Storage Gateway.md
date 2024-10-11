@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Storage Index]]
+[[AWS Storage Index]]
 # AWS Storage Gateway
 
 Deliver low-latency data access to on-premises applications while leveraging the agility, economics and security capabilities of AWS in the cloud.

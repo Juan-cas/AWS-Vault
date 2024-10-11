@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Data-bases Index]]
+[[AWS Data-bases Index]]
 
 # Amazon Quantum ledger Database (QLDB)
 

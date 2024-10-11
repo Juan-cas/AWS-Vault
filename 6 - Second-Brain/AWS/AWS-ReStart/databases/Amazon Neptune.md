@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Data-bases Index]]
+[[AWS Data-bases Index]]
 # Amazon Neptune
 
 Its a fast a reliable [[Graph Database]] that makes it easy to build and run applications that work with highly connected databases.

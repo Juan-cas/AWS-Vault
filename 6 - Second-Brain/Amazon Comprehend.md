@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Data Analytics index]]
+[[AWS Data Analytics index]]
 
 # Amazon Comprehend
 

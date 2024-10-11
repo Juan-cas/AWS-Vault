@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Security Index]]
+[[AWS Security Index]]
 # aws Detective (Exaustive security check)
 
 	Utilizes Machine Learning to check the root cause of security issues or malicious activity overtime and provides reports and visualizatiosn.

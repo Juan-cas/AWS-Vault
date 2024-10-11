@@ -2,7 +2,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Data-bases Index]]
+[[AWS Data-bases Index]]
 # AWS Aurora
 
  A Relational database compatible with MySQL and PostgreSQL, its 5 times faster than MySQL and 3 times faster than PostgreSQL.

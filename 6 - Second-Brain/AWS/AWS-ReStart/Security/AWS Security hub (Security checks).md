@@ -4,7 +4,7 @@ Status:
 
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Security Index]]
+[[AWS Security Index]]
 
 # AWS Security hub (Security checks)
 

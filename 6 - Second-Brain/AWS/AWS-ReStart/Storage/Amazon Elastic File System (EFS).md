@@ -3,7 +3,7 @@
 Status:
 
 Tags:
-[[4 - Indexes/AWS 1/AWS Storage Index]]
+[[AWS Storage Index]]
 # Amazon Elastic File System (EFS)
 
 Provides server-less, fully elastic file storage so that you can share file data without provisioning or managing storage capacity and performance.
